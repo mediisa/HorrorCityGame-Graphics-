@@ -17,4 +17,4 @@ The city is in a state of panic. Monsters roam the streets and the fear is growi
 - Cooperative and team gameplay
 - Scoring system and smart cards
 - Attractive and user-oriented graphical environment
-- Number of users: 2-4
+- Number of players: 2-4
